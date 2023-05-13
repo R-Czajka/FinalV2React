@@ -1,0 +1,17 @@
+Link to Presentation - https://docs.google.com/presentation/d/126WKmShiaujuwjGe9qogAwwyYHRcsVOevJPkn59oj9I/edit?usp=sharing
+
+
+
+Tutorials Utilized/Built off of
+
+Stripe
+https://www.youtube.com/watch?v=72iEz5iopqQ
+
+10 part React series-
+https://www.youtube.com/watch?v=vPbiO9Uv81k&list=PL63c_Ws9ecIRnNHCSqmIzfsMAYZrN71L6&index=2
+
+Authentication/ MongoDB
+https://www.youtube.com/watch?v=fLgs5FIgHaU&list=PL63c_Ws9ecIRnNHCSqmIzfsMAYZrN71L6&index=24
+
+AWS s3
+https://docs.aws.amazon.com/AmazonS3/latest/userguide/GetStartedWithS3.html
